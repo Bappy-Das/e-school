@@ -1,0 +1,21 @@
+body{
+    overflow-x:hidden;
+}
+
+.header-bg{
+    background-color: #F0FFF0;
+}
+.banner{
+    font-family: 'Poppins', sans-serif;
+}
+ 
+
+.footer-bg-height{
+    background-color: #282531;
+    height: 330px;
+    color: white;
+}
+.footer-link a{
+    text-decoration: none;
+    color: white;
+}
